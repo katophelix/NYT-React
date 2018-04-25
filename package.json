@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
-  "homepage": "https://github.com/katophelix/NYT-React",
+  "homepage": "https://github.io/katophelix/NYT-React",
   "scripts": {
     "server": "node server.js",
     "deploy": "react-scripts build && gh-pages -d build",
