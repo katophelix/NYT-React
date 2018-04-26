@@ -5,7 +5,7 @@ A NodeJS, MongoDB, Express, and React application where users can query,
 
 
 
-![Search the NEW YORK TIMES](search.gif)
+![Search the NEW YORK TIMES](Screen-shots/search.gif)
 
 
 
